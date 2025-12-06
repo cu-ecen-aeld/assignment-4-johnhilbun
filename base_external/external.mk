@@ -1,1 +1,1 @@
-include package/aesd-assignments/aesd-assignments.mk
+include ../base_external/package/aesd-assignments/aesd-assignments.mk
