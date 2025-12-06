@@ -1,1 +1,1 @@
-include /home/buffalo/Desktop/ECEA5305/assignment-4-johnhilbun/base_external/package/aesd-assignments/aesd-assignments.mk
+include "$BR2_BASE_DIR/../../base_external/package/aesd-assignments/aesd-assignments.mk"
